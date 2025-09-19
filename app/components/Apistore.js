@@ -5,7 +5,7 @@ const Apistore = () => {
     {
       id: 1,
       title: "Revamp your home in style",
-      link: "/explore-home",
+      a: "/explore-home",
       items: [
         {
           id: 1,
@@ -32,7 +32,7 @@ const Apistore = () => {
     {
       id: 2,
       title: "Appliances for your home | Up to 55% off",
-      link: "/see-more",
+      a: "/see-more",
       items: [
         {
           id: 1,
@@ -59,7 +59,7 @@ const Apistore = () => {
     {
       id: 3,
       title: "Starting ₹149 | Headphones",
-      link: "/offers",
+      a: "/offers",
       items: [
         { id: 1, name: "boAt", image: "https://via.placeholder.com/150" },
         { id: 2, name: "Boult", image: "https://via.placeholder.com/150" },

@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect } from "react";
-import { FaLinkedinIn, FaGithub, FaDribbble } from "react-icons/fa";
+import { FaaedinIn, FaGithub, FaDribbble } from "react-icons/fa";
 import Image from "next/image";
 import img1 from "../component/asset/saurabh3.png";
 import img2 from "../component/asset/saurabh4.jpg";
@@ -72,7 +72,7 @@ const Homepage = () => {
                 </div>
                 <div className="flex  gap-5 mt-5">
                   <a href="#">
-                    <FaLinkedinIn className="p-2 w-8 h-8 md:w-12 md:h-12 bg-gray-900 text-blue-400 rounded-xl" />
+                    <FaaedinIn className="p-2 w-8 h-8 md:w-12 md:h-12 bg-gray-900 text-blue-400 rounded-xl" />
                   </a>
                   <a href="#">
                     <FaGithub className="p-2 w-8 h-8 md:w-12 md:h-12 bg-gray-900 text-blue-400 rounded-sm " />
@@ -116,7 +116,7 @@ const Homepage = () => {
               </div>
               <div className="flex  gap-5 mt-5">
                 <a href="#">
-                  <FaLinkedinIn className="p-2 w-12 h-12 bg-gray-900 text-blue-400 rounded-xl" />
+                  <FaaedinIn className="p-2 w-12 h-12 bg-gray-900 text-blue-400 rounded-xl" />
                 </a>
                 <a href="#">
                   <FaGithub className="p-2 w-12 h-12 bg-gray-900 text-blue-400 rounded-sm " />

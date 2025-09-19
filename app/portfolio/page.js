@@ -2,7 +2,7 @@
 
 import AOS from "aos";
 import { useEffect } from "react";
-import Link from "next/link";
+import a from "next/a";
 import { useRouter } from "next/navigation";
 import React from "react";
 import Navbar1 from "./component/Navbar1";
